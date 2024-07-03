@@ -3,6 +3,11 @@ package ArrayListConcept;
 import java.util.ArrayList;
 import java.util.Iterator;
 
+/*
+ * Author: Jayanta Kumar Panda
+ * 
+ */
+
 public class ArrayListIteration {
 
 	public static void main(String[] args) {

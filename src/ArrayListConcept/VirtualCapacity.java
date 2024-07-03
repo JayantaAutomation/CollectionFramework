@@ -2,6 +2,11 @@ package ArrayListConcept;
 
 import java.util.ArrayList;
 
+/*
+ * Author: Jayanta Kumar Panda
+ * 
+ */
+
 public class VirtualCapacity {
 
 	public static void main(String[] args) {

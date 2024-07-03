@@ -2,6 +2,11 @@ package ArrayListConcept;
 
 import java.util.ArrayList;
 
+/*
+ * Author: Jayanta Kumar Panda
+ * 
+ */
+
 public class GenericArrayList {
 
 	public static void main(String[] args) {

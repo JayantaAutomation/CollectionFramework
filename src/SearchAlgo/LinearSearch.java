@@ -2,6 +2,11 @@ package SearchAlgo;
 
 public class LinearSearch {
 
+/*
+ * Author: Jayanta Kumar Panda
+ * 
+ */
+	
 	public static void main(String[] args) {
 
 		//Change the target number and check the output.
